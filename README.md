@@ -19,4 +19,4 @@ This project focuses on building a sentiment analysis model using IMDB movie rev
 - Visualize word frequencies and sentiment distribution  
 
 ## Tools & Libraries Used  
-Python, pandas, NumPy, matplotlib, seaborn, scikit-learn (CountVectorizer, TfidfVectorizer, LogisticRegression, classification_report, confusion_matrix, train_test_split), NLTK, TensorFlow/Keras (if used)
+Python, pandas, NumPy, matplotlib, seaborn, scikit-learn (CountVectorizer, TfidfVectorizer, LogisticRegression, classification_report, confusion_matrix, train_test_split), NLTK, TensorFlow
