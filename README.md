@@ -2,7 +2,7 @@
 
 ## Description  
 This project focuses on building a sentiment analysis model using IMDB movie reviews. The notebook leverages Natural Language Processing (NLP) techniques and machine learning models to classify reviews as positive or negative. It includes text preprocessing, vectorization, model training, and evaluation.  
-**[Dataset Source – IMDB Reviews (Kaggle or TensorFlow Datasets)]**
+**[Dataset Source](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)**
 
 ## Objectives  
 - Analyze IMDB movie review text data  
