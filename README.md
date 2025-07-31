@@ -1,8 +1,9 @@
 # IMDB Text Sentiment Analysis
 
 ## Problem Statement
-Analyzing thousands of movie reviews to understand audience sentiment is time-consuming and subjective. This project automates sentiment classification using Natural Language Processing (NLP) and machine learning, enabling efficient and accurate categorization of IMDB reviews as positive or negative.
-**[Dataset Source](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)**
+Analyzing thousands of movie reviews to understand audience sentiment is time-consuming and subjective. This project automates sentiment classification using Natural Language Processing (NLP) and machine learning, enabling efficient and accurate categorization of IMDB reviews as positive or negative
+
+
 ---
 
 ## Tools & Technologies Used
@@ -14,7 +15,7 @@ Analyzing thousands of movie reviews to understand audience sentiment is time-co
   - `scikit-learn` for vectorization (TF-IDF, CountVectorizer), model training (Logistic Regression, Naive Bayes), and evaluation  
   - `matplotlib`, `seaborn` for data visualization  
   - `tkinter` for building a simple GUI  
-  - `TensorFlow` (optional, for future deep learning extension)
+  **[Dataset Source](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)**
 
 ---
 
